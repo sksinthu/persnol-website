@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/persnol-website/static/css/main.073c9b0a.css",
+    "main.js": "/persnol-website/static/js/main.c2af119e.js",
+    "static/js/787.5809834d.chunk.js": "/persnol-website/static/js/787.5809834d.chunk.js",
+    "static/media/logo.svg": "/persnol-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/persnol-website/index.html",
+    "main.073c9b0a.css.map": "/persnol-website/static/css/main.073c9b0a.css.map",
+    "main.c2af119e.js.map": "/persnol-website/static/js/main.c2af119e.js.map",
+    "787.5809834d.chunk.js.map": "/persnol-website/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c2af119e.js"
+  ]
+}
